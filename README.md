@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 I'm a B.Tech Student.<br>I'm Looking for an organization.<br>Learning Flutter.<br>
-
+<img src="<img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif"/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwinjoseph) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Ashwin0407) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24263061) 
