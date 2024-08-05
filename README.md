@@ -36,8 +36,6 @@ I'm a B.Tech Student.<br>I'm Looking for an organization.<br>Learning Flutter.<b
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maybeAshwin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
@@ -46,4 +44,3 @@ I'm a B.Tech Student.<br>I'm Looking for an organization.<br>Learning Flutter.<b
 ---
 [![](https://visitcount.itsvg.in/api?id=maybeAshwin&icon=8&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
