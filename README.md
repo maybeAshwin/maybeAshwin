@@ -4,7 +4,7 @@
 
 <h2>💫 About Me:</h2>
 <h3> 
-I'm a B.Tech Student.<br>I'm Looking for an organization.<br>Learning Flutter.<br>
+I'm a B.Tech Student.<br>I'm Looking for an organization.<br>Learning Flutter,React .<br>
 </h3>
 
 ## 🌐 Socials:
