@@ -8,7 +8,7 @@ I'm a B.Tech Student.<br>I'm Looking for an organization.<br>Learning Flutter,Re
 </h3>
 
 ## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/ashwinjoseph-) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwinjoseph-) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Ashwin0407) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24263061)
 
